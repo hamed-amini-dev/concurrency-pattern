@@ -1,0 +1,31 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the 'go run' command
+*.out
+
+# Compiled object files
+*.o
+*.a
+
+# Dependencies
+/vendor/
+
+# Build directories
+bin/
+build/
+
+# Logs
+*.log
+
+# IDE specific files (e.g., JetBrains, VSCode)
+.idea/
+*.iml
+.vscode/
